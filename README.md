@@ -42,6 +42,7 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 ## CIRCUIT DIAGRAM
 ![WhatsApp Image 2025-11-28 at 4 04 02 PM](https://github.com/user-attachments/assets/ca28bd45-a753-477c-b52b-ad4a04658681)
 
+![WhatsApp Image 2025-11-28 at 4 25 04 PM](https://github.com/user-attachments/assets/10785940-aba0-4e23-8fcf-43327aced0e1)
 
 ## MODEL GRAPH
 
@@ -84,6 +85,9 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/7b056165-7a34-45d2-94d9-e1753d3b49ef" />
+
+
 ![WhatsApp Image 2025-11-28 at 4 08 49 PM](https://github.com/user-attachments/assets/1f6c2eee-3579-4291-ac9e-9b2a6da44994)
 
 
@@ -113,6 +117,7 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ![WhatsApp Image 2025-11-28 at 4 09 34 PM](https://github.com/user-attachments/assets/35fc90a6-c57b-4e5e-9362-dc23abedde48)
 
+![WhatsApp Image 2025-11-28 at 4 26 13 PM](https://github.com/user-attachments/assets/4e456af4-e329-468e-ad41-94033442e55d)
 
 
 ## MODEL GRAPH
@@ -155,6 +160,9 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/9bae968b-c2d0-45d9-adad-13b4fa04a2b5" />
+
+
 ![WhatsApp Image 2025-11-28 at 4 11 40 PM](https://github.com/user-attachments/assets/16e04f59-7c6e-43d4-ad98-6983d8389b82)
 
 
@@ -183,6 +191,8 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 ## CIRCUIT DIAGRAM
 
 ![WhatsApp Image 2025-11-28 at 4 12 36 PM](https://github.com/user-attachments/assets/c88f3697-7186-4a8c-893d-dc7b79645a13)
+
+![WhatsApp Image 2025-11-28 at 4 27 04 PM](https://github.com/user-attachments/assets/7cd00e40-4a3f-4ea1-b0e9-d4852e68146b)
 
 ## MODEL GRAPH
 
@@ -228,6 +238,9 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-28 at 4 15 06 PM](https://github.com/user-attachments/assets/a965feb9-3e41-4eb9-b6d6-f8b70d0ff8fe)
+
+<img width="784" height="339" alt="image" src="https://github.com/user-attachments/assets/cdac995a-4394-46d5-83d9-57f6bed22acd" />
+
 
 ---
 ##RESULT:
